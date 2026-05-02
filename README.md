@@ -1,4 +1,4 @@
-### Network Defense: ACL, DHCP Relay/Helper, OSPF, VLAN, Trunking, and Port Security Project
+### Network Defense: Router-on-a-Stick, ACL, DHCP Relay/Helper, OSPF, VLAN, Trunking, and Port Security Project
 
 
 This project presents the planning and implementation of a secure enterprise network architecture focused on resilience, segmentation, and controlled access. 
